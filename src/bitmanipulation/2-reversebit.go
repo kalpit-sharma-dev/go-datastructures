@@ -43,5 +43,6 @@ func ReverseBits(num uint32) uint32 {
 		num = num >> 1
 
 	}
+	
 	return rev
 }
