@@ -1,4 +1,5 @@
-# Go-DataStructures
-## Arrays
-    1. Use Map to find the Value in O(n)
-    2. Use 2 Pointer, one from start one from end
+# Go-DataStructures -- This Repo contains questions solved in Golang related to Datastructure and Algo 
+
+## 1. Bit-Manipulation
+## 2. Arrays
+
