@@ -1,5 +1,5 @@
 # Go-DataStructures -- This Repo contains questions solved in Golang related to Datastructure and Algo 
 
-## Bit-Manipulation
-## Arrays
+## 1. Bit-Manipulation
+## 2. Arrays
 
