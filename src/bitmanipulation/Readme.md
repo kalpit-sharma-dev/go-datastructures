@@ -6,4 +6,4 @@
     3.  Given two integers A and B, find a number X such that A xor X is minimum possible, and the number of set bits in X equals B. ---  smallestxor.go
 
     4. Write a function that takes an integer and returns the number of 1 bits it has. --- 4-countsetbits.go
-    5. 
+    5. Given an array of integers A, every element appears twice except for one. Find that single one. --- 5-singlenumber.go
