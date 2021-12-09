@@ -6,3 +6,4 @@
     5. You're given a read only array of n integers. Find out if any integer occurs more than n/3 times in the array in linear time and constant additional space.
     6. Determine if a Sudoku is valid, according to: http://sudoku.com.au/TheRules.aspx . The Sudoku board could be partially filled, where empty cells are filled with the character '.'. -- 6-validsudoku.go
     7. Pairs With Given Xor -- 7-xorpair.go
+    8. Subarray with given sum -- 8-subarrayksum.go
