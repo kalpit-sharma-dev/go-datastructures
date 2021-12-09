@@ -5,3 +5,4 @@
     4. Given an array of size n, find the majority element. The majority element is the element that appears more than floor(n/2) times 4-MajorityElement.go
     5. You're given a read only array of n integers. Find out if any integer occurs more than n/3 times in the array in linear time and constant additional space.
     6. Determine if a Sudoku is valid, according to: http://sudoku.com.au/TheRules.aspx . The Sudoku board could be partially filled, where empty cells are filled with the character '.'. -- 6-validsudoku.go
+    7. Pairs With Given Xor -- 7-xorpair.go
