@@ -7,3 +7,4 @@
     6. Determine if a Sudoku is valid, according to: http://sudoku.com.au/TheRules.aspx . The Sudoku board could be partially filled, where empty cells are filled with the character '.'. -- 6-validsudoku.go
     7. Pairs With Given Xor -- 7-xorpair.go
     8. Subarray with given sum -- 8-subarrayksum.go
+    9. Triplets with targetsum -- 9-triplets.go
