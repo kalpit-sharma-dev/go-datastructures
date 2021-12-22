@@ -8,3 +8,4 @@
     7. Pairs With Given Xor -- 7-xorpair.go
     8. Subarray with given sum -- 8-subarrayksum.go
     9. Triplets with targetsum -- 9-triplets.go
+    10.  Longest Consecutive Sequence -- 10-LongestconsSeq.go
