@@ -9,4 +9,5 @@
     8. Subarray with given sum -- 8-subarrayksum.go
     9. Triplets with targetsum -- 9-triplets.go
     10.  Longest Consecutive Sequence -- 10-LongestconsSeq.go
-    12.  Special Subsequences "AG" -- 11-AG.go
+    11.  Special Subsequences "AG" -- 11-AG.go
+    12. Shaggy and distances -- 12-mindistance.go
