@@ -3,4 +3,5 @@
 ## 1. Bit-Manipulation
 ## 2. Arrays
 ## 3. Recursion
+## 4. Binary Tree
 
