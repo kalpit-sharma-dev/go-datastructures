@@ -6,3 +6,4 @@
 5. Identical Binary Trees -- 5-isidentical.go
 6. Nodes Count -- 6-nodecount.go
 7. Count BST nodes in a range -- 7-countbstnodes.go
+8. Invert the Binary Tree -- 8-invertbtree.go
