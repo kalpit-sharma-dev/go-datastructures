@@ -11,13 +11,13 @@
 ## 8. Heap
 ## 9. Linked List
 ## 10. Matrix
-## 10. Practice
-## 10. Recursion
-## 10. Seraching and Sorting
-## 10. Stack and queue
-## 10. String
-## 10. Tree
-## 10. Trie
+## 11. Practice
+## 12. Recursion
+## 13. Seraching and Sorting
+## 14. Stack and queue
+## 15. String
+## 16. Tree
+## 17. Trie
 
 
 
